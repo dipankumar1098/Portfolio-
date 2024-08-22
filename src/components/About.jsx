@@ -56,11 +56,11 @@ function About() {
             <div>
             <ul className="list-disc space-y-2">
              <li>
-              <p className="font-bold">Career Skill Certification</p>
+              <a href="https://drive.google.com/file/d/1y_E-7L7PsjYYGAyS0r-0SiX_KTv19n9b/view?usp=sharing" className="font-bold">Career Skill Certification</a>
               <p className="text-sm">Tata Consultancy Service</p>
               <p className="text-gray-600 text-sm">june 2023</p>
              </li>
-             <li><p className="font-bold">Impactful Presentations Certification</p>
+             <li><a href="https://drive.google.com/file/d/14Vb4HU3ULz0gy399PR52RAafb6jqdLPj/view?usp=sharing" className="font-bold">Impactful Presentations Certification</a>
               <p className="text-sm">Tata Consultancy Service</p>
               <p className="text-gray-600 text-sm">july 2023</p>
              </li>
@@ -70,7 +70,7 @@ function About() {
           <div>
            <ul className="list-disc space-y-2">
             <li>
-              <p className="font-bold">MERN stack development</p>
+              <a href="https://drive.google.com/file/d/1dzshpqIRKCLtxIA9TfIpSprRQfnccaIm/view?usp=sharing" className="font-bold">MERN stack development</a>
               <p className="text-sm">Infosys Springboard</p>
               <p className="text-gray-600 text-sm">Oct 2023</p>
              </li>
