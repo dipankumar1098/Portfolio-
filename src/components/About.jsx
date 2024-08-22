@@ -37,7 +37,7 @@ function About() {
           <h2 className="text-2xl font-bold text-green-600 mb-4">Experience</h2>
           <ul className="list-disc space-y-2">
             <li>
-              <p className="font-bold">Greet Labs Pvt Ltd, Bangalore</p>
+              <p className="font-bold">Greet Labs Pvt Ltd</p>
               <p>Fullstack Web Development - Bootcamp (MERN)</p>
               <p className="text-gray-600 text-sm">2024 June - Present</p>
             </li>
