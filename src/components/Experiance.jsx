@@ -53,6 +53,11 @@ function Experiance() {
     },
     {
       id: 9,
+      logo: git,
+      name: "GitHub",
+    },
+    {
+      id: 10,
       logo: api,
       name: "Postman API",
     }
