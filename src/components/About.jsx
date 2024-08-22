@@ -10,7 +10,7 @@ function About() {
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
           Hello, I'm Deepan, a passionate Web developer with a keen eye for MERN
-          Stack . With a background in Computer Science & Engineering, I strive to create impactful and
+          Stack . <br/> With a background in Computer Science & Engineering, I strive to create impactful and
           visually stunning Software solutions that leave a lasting impression.
         </p>
         <br />
