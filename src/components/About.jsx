@@ -39,7 +39,7 @@ function About() {
             <li>
               <p className="font-bold">Greet Labs Pvt Ltd</p>
               <p>Fullstack Web Development - Bootcamp (MERN)</p>
-              <p className="text-gray-600 text-sm">2024 June - Present</p>
+              <p className="text-gray-600 text-sm">June 2024 - Present</p>
             </li>
           </ul>
         </div>
